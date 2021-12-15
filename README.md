@@ -1,2 +1,2 @@
 # Open2
-Automa notes
+Experimenting with the Element Selector.
