@@ -21,6 +21,26 @@ All HTML elements can have attributes<P>
 Attributes provide additional information about elements<P>
 Attributes are always specified in the start tag<P>
 Attributes usually come in name/value pairs like: name="value"<P>
+      
 ![b7](https://user-images.githubusercontent.com/5572028/146260677-5d5384e2-4ba1-4e31-8b89-082ea72b180a.png)
     <P>Blocks lets you try out the 'things automa does' on an element<P>
+![b8](https://user-images.githubusercontent.com/5572028/146261258-7cba2343-86b5-47d8-b76c-9421aa609492.png)
+      <p>
+![b9](https://user-images.githubusercontent.com/5572028/146261369-992f6055-d8b6-4396-b638-e8ae416171ba.png)
+   <p>
+
+![b10](https://user-images.githubusercontent.com/5572028/146261758-5b6372b3-e8e9-41d1-86d1-468ca0dba7db.png)
+     <p>
+
+![b11](https://user-images.githubusercontent.com/5572028/146261945-23f10845-3ed2-4c15-88de-e645bb21a7a1.png)
+       <p>
+
+![b12](https://user-images.githubusercontent.com/5572028/146262165-6f96c555-fa7c-4f07-9ad5-bdd513ddfb1c.png)
+
+![b13](https://user-images.githubusercontent.com/5572028/146262432-cb43f2a2-6910-4f18-a02f-542ddbc80a6a.png)
+
+    <p>The up and down arrows go up and down the nested elements in the page.  Try clicking on the inside of the present then using the up arrow  <p>
+
+
+
 
