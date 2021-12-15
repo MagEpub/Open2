@@ -35,11 +35,18 @@ Attributes usually come in name/value pairs like: name="value"<P>
 ![b11](https://user-images.githubusercontent.com/5572028/146261945-23f10845-3ed2-4c15-88de-e645bb21a7a1.png)
        <p>
 
-![b12](https://user-images.githubusercontent.com/5572028/146262165-6f96c555-fa7c-4f07-9ad5-bdd513ddfb1c.png)
-
-![b13](https://user-images.githubusercontent.com/5572028/146262432-cb43f2a2-6910-4f18-a02f-542ddbc80a6a.png)
-
+![b12](https://user-images.githubusercontent.com/5572028/146262432-cb43f2a2-6910-4f18-a02f-542ddbc80a6a.png)
     <p>The up and down arrows go up and down the nested elements in the page.  Try clicking on the inside of the present then using the up arrow  <p>
+
+![b13](https://user-images.githubusercontent.com/5572028/146263202-6ab1f40d-b2b6-4240-8c84-97b856e9cfe2.png)
+    <p>
+      
+![b14](https://user-images.githubusercontent.com/5572028/146263348-4ccde16b-30a5-471e-bd05-f9ff7fe97013.png)
+     <p>
+     <p> Click up enough times and eventually you'll get to the <body> element <p>
+        
+![b15](https://user-images.githubusercontent.com/5572028/146263664-ae66bec8-779c-4ac7-8456-9511e88eb132.png)
+
 
 
 
