@@ -1,6 +1,7 @@
 # Open2
 
 Experimenting with the Element Selector.<p>
+  
 ![b1](https://user-images.githubusercontent.com/5572028/146258155-308b04b2-ed8d-4d81-9d20-1c45064eeefb.png)
   
   Most important, it will stop working unexpectedly if you do things to the page.  Always start from a freshly opened page.<p>
@@ -12,9 +13,9 @@ Experimenting with the Element Selector.<p>
 ![b3](https://user-images.githubusercontent.com/5572028/146259317-40d024c8-408f-4243-895d-87a378eea0a1.png)
     <P>  Moving the mouse around highlights different elements.  An HTML element is defined by a start tag, some content, and an end tag.<p>
 ![b4](https://user-images.githubusercontent.com/5572028/146259471-ba162eab-b28d-436a-8372-2db96b9d6029.png)
-    <P>
+    <P> Moving down another element <p>
 ![b5](https://user-images.githubusercontent.com/5572028/146260144-9bacb672-80c1-4dc8-9b9d-c2e92dee4b37.png)
-      <P>
+      <P> and moving down again <p>
 ![b6](https://user-images.githubusercontent.com/5572028/146260347-5d958703-a913-4d3a-aaba-19fd7ca7257e.png)
     <P> Clicking on an element shows some information about it.  There are lots of different elements, and some you can't click on.<p>
       HTML Attributes<P>
@@ -26,12 +27,12 @@ Attributes usually come in name/value pairs like: name="value"<P>
 ![b7](https://user-images.githubusercontent.com/5572028/146260677-5d5384e2-4ba1-4e31-8b89-082ea72b180a.png)
     <P>Blocks lets you try out the 'things automa does' on an element<P>
 ![b8](https://user-images.githubusercontent.com/5572028/146261258-7cba2343-86b5-47d8-b76c-9421aa609492.png)
-      <p>
+      <p> click on get text <p>
 ![b9](https://user-images.githubusercontent.com/5572028/146261369-992f6055-d8b6-4396-b638-e8ae416171ba.png)
-   <p>
+   <p> and you'll see the element id.  There was no data so you see empty "" <p>
 
 ![b10](https://user-images.githubusercontent.com/5572028/146261758-5b6372b3-e8e9-41d1-86d1-468ca0dba7db.png)
-     <p>
+     <p> Click on images and get text<p>
 
 ![b11](https://user-images.githubusercontent.com/5572028/146261945-23f10845-3ed2-4c15-88de-e645bb21a7a1.png)
        <p>
